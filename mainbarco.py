@@ -1,5 +1,6 @@
 from funcionesbarco import *
 from variablesbarco import TABLERO
+import numpy
 
 #tablero_maquina = TABLERO
 tablero_jugador = TABLERO
